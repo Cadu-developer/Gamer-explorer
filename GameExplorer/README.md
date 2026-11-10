@@ -49,8 +49,8 @@ app/src/main/java/com/gameexplorer/app/
 
 | Integrante | O que fez |
 |---|---|
-| Carlos Eduardo | Responsavel pelo desenvolvimento parcial do codigo e pela modelagem e design do projeto |
-| Davi Costa| Responsavel pelo desenvolvimento do codigo |
+| Carlos Eduardo Medeiros | Responsavel pelo desenvolvimento parcial do codigo e pela modelagem e design do projeto |
+| Davi Costa de Oliveira | Responsavel pelo desenvolvimento do codigo |
 
 ## Segurança e limitações
 
