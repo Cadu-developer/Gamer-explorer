@@ -49,9 +49,8 @@ app/src/main/java/com/gameexplorer/app/
 
 | Integrante | O que fez |
 |---|---|
-| Integrante 1 | Preencher com contribuição real |
-| Integrante 2 | Preencher com contribuição real |
-| Integrante 3 (se houver) | Preencher com contribuição real |
+| Carlos Eduardo | Responsavel pelo desenvolvimento parcial do codigo e pela modelagem e design do projeto |
+| Davi Costa| Responsavel pelo desenvolvimento do codigo |
 
 ## Segurança e limitações
 
