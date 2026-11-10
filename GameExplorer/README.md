@@ -45,10 +45,6 @@ app/src/main/java/com/gameexplorer/app/
 
 **Regra de dependência:** a interface chama o ViewModel; o ViewModel chama os repositories; somente `data` chama o Retrofit e o Room. Nenhuma tela conhece `GameApi` ou `DAO`.
 
-## Prints para a entrega
-
-Adicione **4–6 capturas reais** em `prints/`: login, cadastro, catálogo, detalhes, favoritos e erro de rede. Prints não foram inventados ou incluídos porque exigem execução no emulador.
-
 ## Divisão de tarefas
 
 | Integrante | O que fez |
@@ -56,12 +52,6 @@ Adicione **4–6 capturas reais** em `prints/`: login, cadastro, catálogo, deta
 | Integrante 1 | Preencher com contribuição real |
 | Integrante 2 | Preencher com contribuição real |
 | Integrante 3 (se houver) | Preencher com contribuição real |
-
-## O que aprendemos
-
-- Integrante 1: preencher após realizar o trabalho.
-- Integrante 2: preencher após realizar o trabalho.
-- Integrante 3 (se houver): preencher após realizar o trabalho.
 
 ## Segurança e limitações
 
