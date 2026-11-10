@@ -1,7 +1,6 @@
 # Game Explorer 🎮
 
-Aplicativo Android de catálogo de jogos gratuitos, com pesquisa, detalhes, favoritos e perfil. Desenvolvido em **Kotlin e Jetpack Compose** para o projeto final da 3ª etapa do COTEMIG.
-
+Aplicativo Android de catálogo de jogos gratuitos, com pesquisa, detalhes, favoritos e perfil. Desenvolvido em **Kotlin e Jetpack Compose** 
 ## API utilizada
 
 **FreeToGame** — https://www.freetogame.com/api-doc
@@ -14,7 +13,7 @@ Aplicativo Android de catálogo de jogos gratuitos, com pesquisa, detalhes, favo
 
 ## Funcionalidades
 
-- Splash/boas-vindas; cadastro e login locais com e-mail válido e senha de no mínimo seis caracteres.
+- boas-vindas; cadastro e login locais com e-mail válido e senha de no mínimo seis caracteres.
 - Senha **não é salva em texto puro**: hash SHA-256 com salt aleatório por usuário (solução didática, não substitui autenticação de servidor).
 - Persistência da sessão com DataStore: o usuário não precisa entrar novamente ao reabrir o aplicativo.
 - Catálogo via Retrofit, executado fora da Main Thread por coroutines, com estados carregando/sucesso/erro e botão de tentar novamente.
@@ -31,8 +30,6 @@ Aplicativo Android de catálogo de jogos gratuitos, com pesquisa, detalhes, favo
 3. Aguarde a sincronização do Gradle (requer Internet) e instale o SDK 35, se solicitado.
 4. Execute no emulador Android (API 26+) ou celular.
 5. Cadastre um usuário e use a busca, detalhes e favoritos.
-
-> Este ZIP contém o código-fonte e arquivos Gradle; o **Gradle Wrapper JAR não está incluído**. O Android Studio pode usar seu Gradle local ou você pode gerar o wrapper com `gradle wrapper --gradle-version 8.9`. A compilação não foi executada neste ambiente; valide a sincronização e ajustes do SDK no Android Studio.
 
 ## Organização por camadas
 
